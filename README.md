@@ -1,5 +1,5 @@
-# Deep-Learning-APL745-
-Machine Learning/Deep Learning Projects done during the course "Deep Learning for Mechanics"-APL745, taught in the Spring '23 semester at IIT, Delhi.
+# Projects
+Data Science/Machine Learning/Deep Learning Projects:
 
 ## [Non-Linear Regression](https://github.com/sob-ANN/Deep-Learning-APL745-/blob/main/Non-Linear%20Regression.ipynb)
 Polynomial Regression applied to solve a simple problem of projectile motion. Use of Batch/Mini-batch/Stocastic Gradient Descent from scratch and plotting Number of Epochs vs Cost Function plots. Also, using a variable learning rate optimized by Line Search Algorithm
