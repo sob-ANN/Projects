@@ -20,3 +20,6 @@ This gives a clear understanding of how Pytorch/Tensorflow work in the backgroun
 
 ## [Convolution Neural Network from Scratch](https://github.com/sob-ANN/Deep-Learning-APL745-/tree/main/CNN%20Working)
 Convolution Neural Network(CNN) has been written from scratch. This project includes writing the convolution forward pass, maxpool, implementing the softmax activation and writing their gradients so that backprop can be performed. 
+
+## [Recurrent Neural Network from Scratch](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/RNN%20From%20Scratch.ipynb)
+Recurrent Neural Network written from the mathematical formulation only in numpy including methods for forward and backward pass. Tan Hyperbolic activation function has been as the activation function.
