@@ -9,3 +9,6 @@ Integration(Expectation) of product of Probability Distribution Functions with s
 
 ## [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
 Bayesian Neural Network(BNN) implementation using TensorFlow API. Here I have taken linear and non-linear regression data with noise and have fit a BNN with both a Deterministic output (modelling only Epistemic Uncertainty) and a Normal Distribution as output (modelling both Epistemic and Alleatoric Uncertainty). Inference is performed using Bayes by Backprop method which is built-in in the DenseVariational Layer in the TensorFlow Probability Layers API.
+
+## [Parameter Estimation using MCMC](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Parameter%20Est%20MCMC%20SDOF.ipynb)
+Parameter Estimation of a single-degree-of-freedom Structural Dynamical System using Markov Chain Monte Carlo (MCMC). System is modelled as a State-Space. We calculate the energy (loss) of the model and update the parameters using sampling based Metropolis Hastings Algorithm. 
