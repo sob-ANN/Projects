@@ -7,3 +7,5 @@ I have taken a few examples where integration has been performed using Monte-Car
 ## [Integration involving PDFs](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Integration%20of%20PDFs%20Gauss%20Quadrature.ipynb)
 Integration(Expectation) of product of Probability Distribution Functions with some functions using Gaussian Quadrature. Functions are taken for which a closed form solution already exists. We can recover the mean(first moment), variance (second moment) using this method.
 
+## [Bayesian Neural Network in TensirFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Netwoek%20Tensorflow.ipynb)
+Bayesian Neural Network(BNN) implementation using TensorFlow API. Here I have taken linear and non-linear regression data with noise and have fit a BNN with both a Deterministic output (modelling only Epistemic Uncertainty) and a Normal Distribution as output (modelling both Epistemic and Alleatoric Uncertainty). Inference is performed using Bayes by Backprop method which is built-in in the DenseReparameterization Layer in the TensorFlow Probability Layers API.
