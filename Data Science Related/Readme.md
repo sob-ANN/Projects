@@ -9,4 +9,4 @@ ___WRITE___
 A basic implementation of Neural Network in Tensorflow on MNIST dataset. Here we were trying to see what representation is learnt by the hidden layers while learning how to apply the TensorFlow API.
 
 ## [Support Vector Machine](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Support%20Vector%20Machine.ipynb)
-Support Vector Machine, a classification Algorithm was implemented using sklearn library. Here, we made use of various kernel functions - rbf, polynomial etc. A lot of hyperparameter tuning was done to improve accuracy. Finally a Kaggle competetion was hosted (https://www.kaggle.com/competitions/ell-784-assignment-2/leaderboard) where my model had an accuracy of 0.98.
+Support Vector Machine, a classification Algorithm was implemented using sklearn library. Here, we made use of various kernel functions - rbf, polynomial etc. A lot of hyperparameter tuning was done to improve accuracy. Finally a Kaggle competetion was hosted (https://www.kaggle.com/competitions/ell-784-assignment-2/leaderboard) where my model had an accuracy of 0.98 (2022AMY7554)
