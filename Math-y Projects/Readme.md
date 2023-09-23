@@ -1,4 +1,4 @@
-## [Advection Diffusion](https://github.com/sob-ANN/APL703/blob/main/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
+## [Advection Diffusion](https://github.com/sob-ANN/Project/blob/main/Math-y%Projects/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
 Solution of the Advection Diffusion PDE on real world wind data using different values of "Peclet Number".
 ## [Image Convolution using Matrices](https://github.com/sob-ANN/APL703/blob/main/Image%20Convolution%20using%20Matrices.ipynb)
 Various filters applied to images are merely Matrix operations (Convolution Operation). Many of these 'filters' have been applied to images in this project by Convolution.
