@@ -1,1 +1,2 @@
-
+## [Fantasy Premier League(FPL)](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/EDA%20FPL.ipynb)
+Fantasy Premier League (FPL) is played by over 10 Million football fans across the globe each year. It can be highly competitive, as I found out after years of playing and struggling. Here, I attempt to try and make use of data from the FPL website using an API call, to make data-driven decisions in selecting my team. Side note: This was done in the off season when the previous season had already finished and I had a year's data on all the players. I created certain metrics like 'Value' = points scored/cost. 
