@@ -13,6 +13,11 @@ Bayesian Neural Network(BNN) implementation using TensorFlow API. Here I have ta
 ## [Parameter Estimation using MCMC](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Parameter%20Est%20MCMC%20SDOF.ipynb)
 Parameter Estimation of a single-degree-of-freedom Structural Dynamical System using Markov Chain Monte Carlo (MCMC). System is modelled as a State-Space. We calculate the energy (loss) of the model and update the parameters using sampling based Metropolis Hastings Algorithm. 
 
+## [Kalman Filter State Estimation](https://github.com/sob-ANN/Projects/blob/main/Bayesian/State%20Est%20SDOF%20KF.ipynb)
+State Estimation of a single-degree-of-freedom Structural Dynamical System using Kalman Filter. This involves generating data, predicting the states (displacement and velocity) using measued accelaration data(noisy) only. Again, a state-space formulation has been used.
+
+
+
 ## [Probabilistic Kalman Filter](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Probabilistic%20Kalman%20Filter.ipynb)
 Kalman Filter, one of the most widely used filtering algorithm, in it's probabilistic form, has some expressions in the derivation. The main assumption of Kalman Filter is that the predicted states are Gaussian. Using this idea, the complex integrations are simplified. Here, I try to recreate some of the results using approximations which will help us in expanding to non-Gaussian assumptions as well. Most of the equations have been taken from Chapter 4 of the book [Bayesian Filtering and Smoothing, Simo Särkkä
 ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiEkrDm_MCBAxXY3jgGHYbHDBYQFnoECCEQAQ&url=https%3A%2F%2Fusers.aalto.fi%2F~ssarkka%2Fpub%2Fcup_book_online_20131111.pdf&usg=AOvVaw2N7Ex3iUkENBRwcn8_0_LU&opi=89978449) . I have given the mathematical expressions used in the Notebook Markdown.
