@@ -14,3 +14,4 @@ Support Vector Machine, a classification Algorithm was implemented using sklearn
 ## [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
 K-means Clustering is an unsupervised clustering algorithm. This model was implemented using sklearn on MNIST datset. We experimented with the value of k (number of clusters) to see how it affects our predictions.
 
+__KLD And VAE__
