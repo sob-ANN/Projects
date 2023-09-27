@@ -52,7 +52,7 @@ Explore my projects related to Bayesian Inference, where I leverage probabilisti
 
 ## Data Science Related
 
-### Data-Driven Fantasy Premier League (FPL) Team Selection
+### [Data-Driven Fantasy Premier League(FPL)](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/EDA%20FPL.ipynb)
 
 In the world of Fantasy Premier League (FPL), where over 10 million football fans compete annually, data-driven decisions can make all the difference. In this project, I harnessed data from the FPL website using an API call to gain a competitive edge in team selection. Here's what I explored:
 
@@ -64,19 +64,19 @@ In the world of Fantasy Premier League (FPL), where over 10 million football fan
 
 I plan to extend this project in the future to include in-season changes and predictions. Historical data may also play a crucial role in making informed decisions. This was my initial attempt to apply my learning and passion for FPL in a data-driven manner.
 
-### Sentiment Analysis with RNN and LSTM
+### [Sentiment Analysis RNN, LSTM](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Sentiment_Analysis_RNN_LSTM.ipynb)
 
 [Project Description Goes Here]
 
-### Neural Network with TensorFlow
+### [Neural Network Tensorflow](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Neural%20Network%20Tensorflow.ipynb)
 
 Explore the fundamentals of Neural Networks with this basic implementation using TensorFlow. I applied this model to the MNIST dataset to understand the representations learned by hidden layers while mastering TensorFlow's API.
 
-### Support Vector Machine
+### [Support Vector Machine](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Support%20Vector%20Machine.ipynb)
 
 Dive into the world of classification with the Support Vector Machine (SVM) algorithm, implemented using the sklearn library. This project explores various kernel functions, including radial basis function (rbf) and polynomial kernels, with extensive hyperparameter tuning to achieve high accuracy. You can also check out a Kaggle competition where my model achieved an impressive accuracy of 0.98 ([Kaggle Competition Link](https://www.kaggle.com/competitions/ell-784-assignment-2/leaderboard)).
 
-### K-means Clustering
+### [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
 
 Uncover patterns in data with the K-means Clustering algorithm. This unsupervised clustering model was applied to the MNIST dataset using sklearn. I experimented with different values of 'k' (number of clusters) to understand how it impacts prediction accuracy.
 
