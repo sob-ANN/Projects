@@ -17,9 +17,9 @@ Welcome to my GitHub repository, where I showcase my projects in various domains
 
 Explore my projects related to Bayesian Inference, where I leverage probabilistic modeling and statistical methods to solve various problems.
 
-### Bayesian Coin Tossing
+### [Bayesian Coin Tossing](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Coin%20Tossing%20(Probabilistic).ipynb)
 
-- [Project Link](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Coin%20Tossing%20(Probabilistic).ipynb)
+
 - Description: A simple coin tossing example modeled using Bayesian Statistics with Pymc3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
 
 ### Approximate Integration
