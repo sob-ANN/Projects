@@ -7,7 +7,7 @@ Welcome to my GitHub repository, where I showcase my projects in various domains
 
 - [Bayesian Inference](#bayesian-inference)
 - [Data Science Related](#data-science-related)
-- [Machine Learning From Scratch](#ml-from-scratch)
+- [Machine Learning From Scratch](#machine-learning-from-scratch)
 - [Operator Learning](#operator-learning)
 - [Physics-Informed Neural Networks](#physics-informed-neural-networks)
 - [Math-Related Projects](#math-related-projects)
