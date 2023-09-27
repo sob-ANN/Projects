@@ -44,6 +44,8 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 - [Kulback-Lieber Divergence for Approximating PDF](https://github.com/sob-ANN/Projects/blob/main/Bayesian/KL_divergence%20Tensorflow.ipynb)
   - Approximate a Probability Distribution Function by a surrogate by minimizing the KL-Divergence.
 
+---
+
 ### Data Science Related
 
 Below you can find projects related to Data-Science - Exploratory Data Analysis, ML/DL Model Applications, Generative AI, Bayesian Statistics. Find more about the projects [here](https://github.com/sob-ANN/Projects/tree/main/Data%20Science%20Related).
@@ -65,6 +67,8 @@ Below you can find projects related to Data-Science - Exploratory Data Analysis,
 
 - [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
   - Uncover patterns in data with the K-means Clustering algorithm. This unsupervised clustering model was applied to the MNIST dataset using sklearn. I experimented with different values of 'k' (number of clusters) to understand how it impacts prediction accuracy.
+
+---
 
 ### Machine Learning From Scratch
 
@@ -94,6 +98,8 @@ Here I try to uncover the Mathematical aspects of ML models which are generally 
 - [Recurrent Neural Network from Scratch](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/RNN%20From%20Scratch.ipynb)
   - RNN mathematically implemented in Numpy with Tanh activation.
 
+---
+
 ### Operator Learning
 
 Applying Deep Learning models to Differential Equations using [Operator Learning](https://github.com/sob-ANN/Projects/tree/main/Operator%20Learning).
@@ -103,6 +109,8 @@ Applying Deep Learning models to Differential Equations using [Operator Learning
 
 - [Fourier Neural Operator](https://github.com/sob-ANN/Projects/blob/main/Operator%20Learning/Fourier%20Neural%20operator.ipynb)
   - Explore the application of a Fourier Neural Operator on 1D Burgers' Equation.
+
+---
 
 ### Physics-Informed Neural Networks
 
@@ -116,6 +124,8 @@ Getting hands-on with [Physics-Informed Neural Networks](https://github.com/sob-
 
 - [2D PINN](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/2D%20PINN%20Project.ipynb)
   - Explore the solution of a 2-D Elastic Deformation problem using Physics-Informed Neural Networks and explore the effect of using different forces on strain.
+
+---
 
 ### Math-Related Projects
 
@@ -132,6 +142,8 @@ Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/
 
 - [Projectile Motion Using odeint](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Projectile%20Motion%20using%20odeint.ipynb)
   - Explore the dynamics of projectile motion in this project, leveraging Scipy's 'odeint' library to solve differential equations. Witness the motion of a football launched from the ground while accounting for drag forces. Realistic parameter values are employed to simulate the motion accurately.
+
+---
 
 ## Contact
 
