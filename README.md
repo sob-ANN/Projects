@@ -2,6 +2,17 @@
 
 Welcome to this GitHub repository, where I showcase my projects in various domains. Below, you'll find a categorized list of my work along with links to specific projects and descriptions. To find more detailed descriptions of a specific domain, click on the hyperlink.
 
+## Table of Contents
+
+- [Bayesian Inference](#bayesian-inference)
+- [Data Science Related](#data-science-related)
+- [Machine Learning From Scratch](#machine-learning-from-scratch)
+- [Operator Learning](#operator-learning)
+- [Physics-Informed Neural Networks](#physics-informed-neural-networks)
+- [Math-Related Projects](#math-related-projects)
+
+---
+
 ### Bayesian Inference
 
 Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/Projects/tree/main/Bayesian), where I leverage probabilistic modeling and statistical methods to solve various problems.
