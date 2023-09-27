@@ -17,23 +17,32 @@ Welcome to this GitHub repository, where I showcase my projects in various domai
 
 Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/Projects/tree/main/Bayesian), where I leverage probabilistic modeling and statistical methods to solve various problems. 
 
+### [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
+
+
+- Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Alleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
+
+### [Variational Auto-Encoder](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Variational%20AutoEncoder%20Tensorflow.ipynb)
+
+- Generate new fashion MNIST Data using Variational Auto-Encoders based on minimization of the Evidence Lower BOund (ELBO).
+
+- ### [Approximate Integration](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Numerical%20Integration%20(MC,%20Gauss%20Quadrature).ipynb)
+
+
+-  Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
+  
+
+
 ### [Bayesian Coin Tossing](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Coin%20Tossing%20(Probabilistic).ipynb)
 
 
 - A simple coin tossing example modeled using Bayesian Statistics with Pymc3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
 
-### [Approximate Integration](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Numerical%20Integration%20(MC,%20Gauss%20Quadrature).ipynb)
 
-
--  Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
 
 ### [Integration involving PDFs](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Integration%20of%20PDFs%20Gauss%20Quadrature.ipynb)
 - Learn about integration (expectation) of the product of Probability Distribution Functions using Gaussian Quadrature, and how it can be used to recover mean and variance.
 
-### [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
-
-
-- Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Alleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
 
 ### [Parameter Estimation using MCMC](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Parameter%20Est%20MCMC%20SDOF.ipynb)
 
@@ -46,7 +55,8 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 ### [Probabilistic Kalman Filter](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Probabilistic%20Kalman%20Filter.ipynb)
 - Discover the probabilistic form of Kalman Filter and its applications in simplifying complex integrations for non-Gaussian assumptions.
 
-
+### [Kulback-Lieber Divergence for Approximating PDF](https://github.com/sob-ANN/Projects/blob/main/Bayesian/KL_divergence%20Tensorflow.ipynb)
+- Approximate a Probability Distribution Function by a surrogate by minimizing the KL-Divergence. 
 
 ---
 
