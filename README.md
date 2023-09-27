@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my GitHub repository, where I showcase my projects in various domains. Below, you'll find a categorized list of my work along with links to specific projects and descriptions. To find more detailed descriptions of a specific domain, click on the hyperlink.
+Welcome to this GitHub repository, where I showcase my projects in various domains. Below, you'll find a categorized list of my work along with links to specific projects and descriptions. To find more detailed descriptions of a specific domain, click on the hyperlink.
 
 ## Table of Contents
 
@@ -33,18 +33,18 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 ### [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
 
 
-- Description: Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Alleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
+- Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Alleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
 
 ### [Parameter Estimation using MCMC](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Parameter%20Est%20MCMC%20SDOF.ipynb)
 
-- Description: Explore parameter estimation for a single-degree-of-freedom Structural Dynamical System using Markov Chain Monte Carlo (MCMC) and State-Space modeling.
+- Explore parameter estimation for a single-degree-of-freedom Structural Dynamical System using Markov Chain Monte Carlo (MCMC) and State-Space modeling.
 
 ### [Kalman Filter State Estimation](https://github.com/sob-ANN/Projects/blob/main/Bayesian/State%20Est%20SDOF%20KF.ipynb)
 
-- Description: Learn about state estimation of a single-degree-of-freedom Structural Dynamical System using Kalman Filter and state-space formulation.
+- Learn about state estimation of a single-degree-of-freedom Structural Dynamical System using Kalman Filter and state-space formulation.
 
 ### [Probabilistic Kalman Filter](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Probabilistic%20Kalman%20Filter.ipynb)
-- Description: Discover the probabilistic form of Kalman Filter and its applications in simplifying complex integrations for non-Gaussian assumptions.
+- Discover the probabilistic form of Kalman Filter and its applications in simplifying complex integrations for non-Gaussian assumptions.
 
 
 
@@ -54,19 +54,11 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 Below you can find projects related to Data-Science - Exploratory Data Analysis, ML/DL Model Applications, Generative AI, Bayesian Statistics. Find more about the projects [here](https://github.com/sob-ANN/Projects/tree/main/Data%20Science%20Related) 
 ### [Data-Driven Fantasy Premier League(FPL)](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/EDA%20FPL.ipynb)
 
-In the world of Fantasy Premier League (FPL), where over 10 million football fans compete annually, data-driven decisions can make all the difference. In this project, I harnessed data from the FPL website using an API call to gain a competitive edge in team selection. Here's what I explored:
-
-- **Metrics for Player Selection**: I created custom metrics such as 'Value' (points scored/cost) to identify cost-effective players. Additionally, I delved into Expected Goals (xG) and Expected Assists (xA) to uncover players who outperformed their xG, offering insights into potential overperformers and underperformers.
-
-- **Beyond the Numbers**: While data is essential, sometimes players can defy statistical expectations. I delved into the fascinating world of "looking beyond the underlying numbers" to evaluate player performance beyond mere statistics. 
-
-- **Optimal Team Building**: I attempted to find the 'most optimal' FPL team while navigating constraints such as budget limitations, maximum/minimum players per position, and team quotas. This project was my first step in using data to optimize team selection.
-
-I plan to extend this project in the future to include in-season changes and predictions. Historical data may also play a crucial role in making informed decisions. This was my initial attempt to apply my learning and passion for FPL in a data-driven manner.
+In the world of Fantasy Premier League (FPL), where over 10 million football fans compete annually, data-driven decisions can make all the difference. In this project, I harnessed data from the FPL website using an API call to gain a competitive edge in team selection
 
 ### [Sentiment Analysis RNN, LSTM](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Sentiment_Analysis_RNN_LSTM.ipynb)
 
-[Project Description Goes Here]
+Getting hands-on with NLP with Sentiment Analysis on IMDb Datset comparing RNN and LSTM results.
 
 ### [Neural Network Tensorflow](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Neural%20Network%20Tensorflow.ipynb)
 
@@ -74,7 +66,7 @@ Explore the fundamentals of Neural Networks with this basic implementation using
 
 ### [Support Vector Machine](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Support%20Vector%20Machine.ipynb)
 
-Dive into the world of classification with the Support Vector Machine (SVM) algorithm, implemented using the sklearn library. This project explores various kernel functions, including radial basis function (rbf) and polynomial kernels, with extensive hyperparameter tuning to achieve high accuracy. You can also check out a Kaggle competition where my model achieved an impressive accuracy of 0.98 ([Kaggle Competition Link](https://www.kaggle.com/competitions/ell-784-assignment-2/leaderboard)).
+Dive into the world of classification with the Support Vector Machine (SVM) algorithm, implemented using the sklearn library. This project explores various kernel functions, with extensive hyperparameter tuning to achieve high accuracy
 
 ### [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
 
