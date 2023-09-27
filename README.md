@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my GitHub repository, where I showcase my projects in various domains. Below, you'll find a categorized list of my work along with links to specific projects and descriptions.
+Welcome to my GitHub repository, where I showcase my projects in various domains. Below, you'll find a categorized list of my work along with links to specific projects and descriptions. To find more detailed descriptions of a specific domain, click on the hyperlink.
 
 ## Table of Contents
 
@@ -15,20 +15,20 @@ Welcome to my GitHub repository, where I showcase my projects in various domains
 
 ## Bayesian Inference
 
-Explore my projects related to Bayesian Inference, where I leverage probabilistic modeling and statistical methods to solve various problems.
+Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/Projects/tree/main/Bayesian), where I leverage probabilistic modeling and statistical methods to solve various problems. 
 
 ### [Bayesian Coin Tossing](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Coin%20Tossing%20(Probabilistic).ipynb)
 
 
-- Description: A simple coin tossing example modeled using Bayesian Statistics with Pymc3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
+- A simple coin tossing example modeled using Bayesian Statistics with Pymc3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
 
 ### [Approximate Integration](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Numerical%20Integration%20(MC,%20Gauss%20Quadrature).ipynb)
 
 
-- Description: Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
+-  Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
 
 ### [Integration involving PDFs](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Integration%20of%20PDFs%20Gauss%20Quadrature.ipynb)
-- Description: Learn about integration (expectation) of the product of Probability Distribution Functions using Gaussian Quadrature, and how it can be used to recover mean and variance.
+- Learn about integration (expectation) of the product of Probability Distribution Functions using Gaussian Quadrature, and how it can be used to recover mean and variance.
 
 ### [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
 
@@ -124,11 +124,11 @@ Uncover patterns in data with the K-means Clustering algorithm. This unsupervise
 
 ## Operator Learning
 
-### Deep-O-Net
+### [Deep-O-Net](https://github.com/sob-ANN/Projects/blob/main/Operator%20Learning/Deep_o_net_Final.ipynb)
 
 Dive deep into Operator Learning with Deep-O-Net, implemented using PyTorch. Generate data using methods similar to those outlined in the paper ([Paper Link](https://arxiv.org/abs/1910.03193)) for the Antiderivative operator.
 
-### Fourier Neural Operator
+### [Fourier Neural Operator](https://github.com/sob-ANN/Projects/blob/main/Operator%20Learning/Fourier%20Neural%20operator.ipynb)
 
 Explore the application of a Fourier Neural Operator on 1D Burgers' Equation, as discussed in the paper ([Paper Link](https://scholar.google.com/scholar_lookup?arxiv_id=2010.08895)).
 
@@ -136,15 +136,15 @@ Explore the application of a Fourier Neural Operator on 1D Burgers' Equation, as
 
 ## Physics-Informed Neural Networks
 
-### Forward Problem using Physics-Informed-Neural-Network
+### [Forward Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/forward_problem_main.ipynb)
 
 Discover the power of Physics-Informed Neural Networks (PINN) in solving forward problems. In this project, we model the deflection of a 1D bar using PINN. Unlike traditional methods, we don't rely on input-output data but instead leverage the underlying physics represented by differential equations. By sampling points within the domain and minimizing the 'residue' from the differential equation, we uncover valuable insights into the deflection of the bar. Boundary conditions, where deflection is zero, are also incorporated into the modified loss function.
 
-### Inverse Problem using Physics-Informed-Neural-Network
+### [Inverse Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/PINN_bar_inverse_main.ipynb)
 
 Take on the inverse problem of the same bar modeled in the previous project. In this case, we have deflection data for each point on the bar, but we lack information about the physical properties of the bar, specifically the Axial Stiffness (EA). Applying similar principles as in the forward problem, we solve for EA (Axial Stiffness) using PINN.
 
-### 2D PINN
+### [2D PINN](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/2D%20PINN%20Project.ipynb)
 
 Explore the solution of a 2-Dimensional Elastic Deformation problem using Physics-Informed Neural Networks. We achieve this by minimizing the 'residue' of the governing Partial Differential Equations while adhering to Dirichlet Boundary Conditions. To analyze different responses, a variety of test body forces are applied to the system, providing comprehensive insights into the 2D Elastic Deformation problem.
 
@@ -152,19 +152,19 @@ Explore the solution of a 2-Dimensional Elastic Deformation problem using Physic
 
 ## Math-Related Projects
 
-### Advection Diffusion
+### [Advection Diffusion](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
 
 Explore the solution of the Advection Diffusion Partial Differential Equation (PDE) on real-world wind data. This project investigates different scenarios by varying the "Peclet Number," providing insights into how advection and diffusion processes interact.
 
-### Image Convolution using Matrices
+### [Image Convolution using Matrices](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Image%20Convolution%20using%20Matrices.ipynb)
 
 Dive into the world of image processing and convolution operations with matrices. Discover how various filters are applied to images through matrix operations, offering a unique perspective on image manipulation techniques.
 
-### Partial Differential Equation
+### [Partial Differential Equation](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Partial%20Differential%20Equation%20Solution%2C%20Visualization.ipynb)
 
 Solve a Partial Differential Equation (PDE) with Dirichlet Boundary Conditions and visualize the results. This project offers a visual representation of the solution space, making it easier to comprehend and interpret the outcomes.
 
-### Projectile Motion Using odeint
+### [Projectile Motion Using odeint](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Projectile%20Motion%20using%20odeint.ipynb)
 
 Explore the dynamics of projectile motion in this project, leveraging Scipy's 'odeint' library to solve differential equations. Witness the motion of a football launched from the ground while accounting for drag forces. Realistic parameter values are employed to simulate the motion accurately.
 
