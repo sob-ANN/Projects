@@ -124,5 +124,5 @@ Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/
 
 ## Contact
 
-If you have any questions or would like to get in touch, feel free to reach out to me at [sobanlone88@gmail.com](mailto:sobanlone88@gmail.com) or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sobanlone/)
+If you have any questions or would like to get in touch, feel free to reach out to me at [sobanlone88@gmail.com](mailto:sobanlone88@gmail.com) or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) SobanLone](https://www.linkedin.com/in/sobanlone/)
 &nbsp;
