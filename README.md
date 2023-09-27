@@ -88,35 +88,35 @@ Uncover patterns in data with the K-means Clustering algorithm. This unsupervise
 
 ## Machine Learning From Scratch
 
-### Non-Linear Regression
+### [Non-Linear Regression](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Non-Linear%20Regression.ipynb)
 
 - **Polynomial Regression**: Projectile motion problem solved with Batch, Mini-batch, and Stochastic Gradient Descent, plus cost function plots and variable learning rates.
 
-### Multivariate Regression
+### [Multivariate Regression](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Multivariate%20Linear%20Regression.ipynb)
 
 - Predict house prices using Gradient Descent with multiple features.
 
-### Binary Classification
+### [Binary Classification](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Binary%20Classification-Logistic%20Reg.ipynb)
 
 - Rainfall prediction with logistic Regression, Binary Cross-Entropy loss, and scipy optimization.
 
-### Multi-Class Classification
+### [Multi-Class Classification](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/OnevRest%20Classification.ipynb)
 
 - MNIST Dataset classification using Binary Cross-Entropy loss and one-hot encoding.
 
-### Softmax Multi-Class Classification
+### [Softmax Multi-Class Classification](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Softmax%20Classification.ipynb)
 
 - MNIST Fashion Dataset classification with Batch Gradient Descent and accuracy comparison.
 
-### Neural Network from Scratch
+### [Neural Network from Scratch](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Neural%20Network%20from%20Scratch.ipynb)
 
 - Numpy-based multi-layer perceptron for deep learning insights.
 
-### Convolution Neural Network from Scratch
+### [Convolution Neural Network from Scratch](https://github.com/sob-ANN/Deep-Learning-APL745-/tree/main/CNN%20Working)
 
 - CNN built from scratch with convolution, max-pooling, softmax, and gradients.
 
-### Recurrent Neural Network from Scratch
+### [Recurrent Neural Network from Scratch](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/RNN%20From%20Scratch.ipynb)
 
 - RNN mathematically implemented in Numpy with Tanh activation.
 
