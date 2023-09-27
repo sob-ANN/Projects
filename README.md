@@ -69,6 +69,37 @@ Uncover patterns in data with the K-means Clustering algorithm. This unsupervise
 [Project Description Goes Here]
 
 ## Machine Learning From Scratch
+# Non-Linear Regression
+
+- **Polynomial Regression**: Projectile motion problem solved with Batch, Mini-batch, and Stochastic Gradient Descent, plus cost function plots and variable learning rates.
+
+# Multivariate Regression
+
+- Predict house prices using Gradient Descent with multiple features.
+
+# Binary Classification
+
+- Rainfall prediction with logistic Regression, Binary Cross-Entropy loss, and scipy optimization.
+
+# Multi-Class Classification
+
+- MNIST Dataset classification using Binary Cross-Entropy loss and one-hot encoding.
+
+# Softmax Multi-Class Classification
+
+- MNIST Fashion Dataset classification with Batch Gradient Descent and accuracy comparison.
+
+# Neural Network from Scratch
+
+- Numpy-based multi-layer perceptron for deep learning insights.
+
+# Convolution Neural Network from Scratch
+
+- CNN built from scratch with convolution, max-pooling, softmax, and gradients.
+
+# Recurrent Neural Network from Scratch
+
+- RNN mathematically implemented in Numpy with Tanh activation.
 
 
 ## Operator Learning
