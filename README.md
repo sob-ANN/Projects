@@ -74,6 +74,9 @@ Getting hands-on with NLP with Sentiment Analysis on IMDb Datset comparing RNN a
 
 Explore the fundamentals of Neural Networks with this basic implementation using TensorFlow. I applied this model to the MNIST dataset to understand the representations learned by hidden layers while mastering TensorFlow's API.
 
+### [Variational Auto-Encoder](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Variational%20AutoEncoder%20Tensorflow.ipynb)
+- Generate new fashion MNIST Data using Variational Auto-Encoders based on minimization of the Evidence Lower BOund (ELBO).
+
 ### [Support Vector Machine](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Support%20Vector%20Machine.ipynb)
 
 Dive into the world of classification with the Support Vector Machine (SVM) algorithm, implemented using the sklearn library. This project explores various kernel functions, with extensive hyperparameter tuning to achieve high accuracy
@@ -82,9 +85,6 @@ Dive into the world of classification with the Support Vector Machine (SVM) algo
 
 Uncover patterns in data with the K-means Clustering algorithm. This unsupervised clustering model was applied to the MNIST dataset using sklearn. I experimented with different values of 'k' (number of clusters) to understand how it impacts prediction accuracy.
 
-### KLD and VAE
-
-[Project Description Goes Here]
 
 ---
 
