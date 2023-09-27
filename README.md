@@ -51,7 +51,7 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 ---
 
 ## Data Science Related
-
+Below you can find projects related to Data-Science - Exploratory Data Analysis, ML/DL Model Applications, Generative AI, Bayesian Statistics. Find more about the projects [here](https://github.com/sob-ANN/Projects/tree/main/Data%20Science%20Related) 
 ### [Data-Driven Fantasy Premier League(FPL)](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/EDA%20FPL.ipynb)
 
 In the world of Fantasy Premier League (FPL), where over 10 million football fans compete annually, data-driven decisions can make all the difference. In this project, I harnessed data from the FPL website using an API call to gain a competitive edge in team selection. Here's what I explored:
@@ -87,6 +87,7 @@ Uncover patterns in data with the K-means Clustering algorithm. This unsupervise
 ---
 
 ## Machine Learning From Scratch
+Here I try to uncover the Mathematical aspects of ML models which are generally hidden away behind different library API's. I build ML models from scratch, based on their Mathematical formulations. Read more [here](https://github.com/sob-ANN/Projects/tree/main/Machine%20Learning%20From%20Scratch)
 
 ### [Non-Linear Regression](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Non-Linear%20Regression.ipynb)
 
@@ -124,21 +125,24 @@ Uncover patterns in data with the K-means Clustering algorithm. This unsupervise
 
 ## Operator Learning
 
+Applying Deep Learning models to Differential Equations using [Operator Learning](https://github.com/sob-ANN/Projects/tree/main/Operator%20Learning).
+
 ### [Deep-O-Net](https://github.com/sob-ANN/Projects/blob/main/Operator%20Learning/Deep_o_net_Final.ipynb)
 
-Dive deep into Operator Learning with Deep-O-Net, implemented using PyTorch. Generate data using methods similar to those outlined in the paper ([Paper Link](https://arxiv.org/abs/1910.03193)) for the Antiderivative operator.
+Dive deep into Operator Learning with Deep-O-Net, implemented using PyTorch. 
 
 ### [Fourier Neural Operator](https://github.com/sob-ANN/Projects/blob/main/Operator%20Learning/Fourier%20Neural%20operator.ipynb)
 
-Explore the application of a Fourier Neural Operator on 1D Burgers' Equation, as discussed in the paper ([Paper Link](https://scholar.google.com/scholar_lookup?arxiv_id=2010.08895)).
+Explore the application of a Fourier Neural Operator on 1D Burgers' Equation.
 
 ---
 
 ## Physics-Informed Neural Networks
+Getting hands-on with [Physics-Informed Neural Networks](https://github.com/sob-ANN/Projects/tree/main/Physics%20Informed%20Neural%20Networks) and applying to a few practical problems in Mechanics.
 
 ### [Forward Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/forward_problem_main.ipynb)
 
-Discover the power of Physics-Informed Neural Networks (PINN) in solving forward problems. In this project, we model the deflection of a 1D bar using PINN. Unlike traditional methods, we don't rely on input-output data but instead leverage the underlying physics represented by differential equations. By sampling points within the domain and minimizing the 'residue' from the differential equation, we uncover valuable insights into the deflection of the bar. Boundary conditions, where deflection is zero, are also incorporated into the modified loss function.
+Discover the power of Physics-Informed Neural Networks (PINN) in solving forward problems for model the deflection of a 1D bar. Unlike traditional methods, we don't rely on input-output data but instead leverage the underlying physics represented by differential equations
 
 ### [Inverse Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/PINN_bar_inverse_main.ipynb)
 
@@ -146,15 +150,17 @@ Take on the inverse problem of the same bar modeled in the previous project. In 
 
 ### [2D PINN](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/2D%20PINN%20Project.ipynb)
 
-Explore the solution of a 2-Dimensional Elastic Deformation problem using Physics-Informed Neural Networks. We achieve this by minimizing the 'residue' of the governing Partial Differential Equations while adhering to Dirichlet Boundary Conditions. To analyze different responses, a variety of test body forces are applied to the system, providing comprehensive insights into the 2D Elastic Deformation problem.
+Explore the solution of a 2-D Elastic Deformation problem using Physics-Informed Neural Networks and explore the effect of using different forces on strain.
 
 ---
 
 ## Math-Related Projects
 
+Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/main/Math-y%20Projects) using concepts from Linear Algebra, Image Processing, Partial Differential Equations and Fluid Mechanics.
+
 ### [Advection Diffusion](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
 
-Explore the solution of the Advection Diffusion Partial Differential Equation (PDE) on real-world wind data. This project investigates different scenarios by varying the "Peclet Number," providing insights into how advection and diffusion processes interact.
+Explore the solution of the Advection Diffusion Partial Differential Equation (PDE) on real-world wind data
 
 ### [Image Convolution using Matrices](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Image%20Convolution%20using%20Matrices.ipynb)
 
