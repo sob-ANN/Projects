@@ -19,30 +19,23 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 
 ### [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
 
-
-- Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Alleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
+- Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Aleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
 
 ### [Variational Auto-Encoder](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Variational%20AutoEncoder%20Tensorflow.ipynb)
 
-- Generate new fashion MNIST Data using Variational Auto-Encoders based on minimization of the Evidence Lower BOund (ELBO).
+- Generate new fashion MNIST Data using Variational Auto-Encoders based on minimization of the Evidence Lower Bound (ELBO).
 
-- ### [Approximate Integration](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Numerical%20Integration%20(MC,%20Gauss%20Quadrature).ipynb)
+### [Approximate Integration](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Numerical%20Integration%20(MC,%20Gauss%20Quadrature).ipynb)
 
-
--  Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
-  
-
+- Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
 
 ### [Bayesian Coin Tossing](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Coin%20Tossing%20(Probabilistic).ipynb)
 
-
-- A simple coin tossing example modeled using Bayesian Statistics with Pymc3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
-
-
+- A simple coin tossing example modeled using Bayesian Statistics with PyMC3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
 
 ### [Integration involving PDFs](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Integration%20of%20PDFs%20Gauss%20Quadrature.ipynb)
-- Learn about integration (expectation) of the product of Probability Distribution Functions using Gaussian Quadrature, and how it can be used to recover mean and variance.
 
+- Learn about integration (expectation) of the product of Probability Distribution Functions using Gaussian Quadrature, and how it can be used to recover mean and variance.
 
 ### [Parameter Estimation using MCMC](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Parameter%20Est%20MCMC%20SDOF.ipynb)
 
@@ -53,43 +46,47 @@ Explore my projects related to [Bayesian Inference](https://github.com/sob-ANN/P
 - Learn about state estimation of a single-degree-of-freedom Structural Dynamical System using Kalman Filter and state-space formulation.
 
 ### [Probabilistic Kalman Filter](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Probabilistic%20Kalman%20Filter.ipynb)
+
 - Discover the probabilistic form of Kalman Filter and its applications in simplifying complex integrations for non-Gaussian assumptions.
 
 ### [Kulback-Lieber Divergence for Approximating PDF](https://github.com/sob-ANN/Projects/blob/main/Bayesian/KL_divergence%20Tensorflow.ipynb)
-- Approximate a Probability Distribution Function by a surrogate by minimizing the KL-Divergence. 
+
+- Approximate a Probability Distribution Function by a surrogate by minimizing the KL-Divergence.
 
 ---
 
 ## Data Science Related
+
 Below you can find projects related to Data-Science - Exploratory Data Analysis, ML/DL Model Applications, Generative AI, Bayesian Statistics. Find more about the projects [here](https://github.com/sob-ANN/Projects/tree/main/Data%20Science%20Related) 
 ### [Data-Driven Fantasy Premier League(FPL)](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/EDA%20FPL.ipynb)
 
-In the world of Fantasy Premier League (FPL), where over 10 million football fans compete annually, data-driven decisions can make all the difference. In this project, I harnessed data from the FPL website using an API call to gain a competitive edge in team selection
+In the world of Fantasy Premier League (FPL), where over 10 million football fans compete annually, data-driven decisions can make all the difference. In this project, I harnessed data from the FPL website using an API call to gain a competitive edge in team selection.
 
 ### [Sentiment Analysis RNN, LSTM](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Sentiment_Analysis_RNN_LSTM.ipynb)
 
-Getting hands-on with NLP with Sentiment Analysis on IMDb Datset comparing RNN and LSTM results.
+Getting hands-on with NLP with Sentiment Analysis on IMDb Dataset comparing RNN and LSTM results.
 
 ### [Neural Network Tensorflow](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Neural%20Network%20Tensorflow.ipynb)
 
 Explore the fundamentals of Neural Networks with this basic implementation using TensorFlow. I applied this model to the MNIST dataset to understand the representations learned by hidden layers while mastering TensorFlow's API.
 
 ### [Variational Auto-Encoder](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Variational%20AutoEncoder%20Tensorflow.ipynb)
-- Generate new fashion MNIST Data using Variational Auto-Encoders based on minimization of the Evidence Lower BOund (ELBO).
+
+- Generate new fashion MNIST Data using Variational Auto-Encoders based on minimization of the Evidence Lower Bound (ELBO).
 
 ### [Support Vector Machine](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Support%20Vector%20Machine.ipynb)
 
-Dive into the world of classification with the Support Vector Machine (SVM) algorithm, implemented using the sklearn library. This project explores various kernel functions, with extensive hyperparameter tuning to achieve high accuracy
+Dive into the world of classification with the Support Vector Machine (SVM) algorithm, implemented using the sklearn library. This project explores various kernel functions, with extensive hyperparameter tuning to achieve high accuracy.
 
 ### [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
 
 Uncover patterns in data with the K-means Clustering algorithm. This unsupervised clustering model was applied to the MNIST dataset using sklearn. I experimented with different values of 'k' (number of clusters) to understand how it impacts prediction accuracy.
 
-
 ---
 
 ## Machine Learning From Scratch
-Here I try to uncover the Mathematical aspects of ML models which are generally hidden away behind different library API's. I build ML models from scratch, based on their Mathematical formulations. Read more [here](https://github.com/sob-ANN/Projects/tree/main/Machine%20Learning%20From%20Scratch)
+
+Here I try to uncover the Mathematical aspects of ML models which are generally hidden away behind different library APIs. I build ML models from scratch, based on their Mathematical formulations. Read more [here](https://github.com/sob-ANN/Projects/tree/main/Machine%20Learning%20From%20Scratch)
 
 ### [Non-Linear Regression](https://github.com/sob-ANN/Projects/blob/main/Machine%20Learning%20From%20Scratch/Non-Linear%20Regression.ipynb)
 
@@ -144,7 +141,7 @@ Getting hands-on with [Physics-Informed Neural Networks](https://github.com/sob-
 
 ### [Forward Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/forward_problem_main.ipynb)
 
-Discover the power of Physics-Informed Neural Networks (PINN) in solving forward problems for model the deflection of a 1D bar. Unlike traditional methods, we don't rely on input-output data but instead leverage the underlying physics represented by differential equations
+Discover the power of Physics-Informed Neural Networks (PINN) in solving forward problems for modeling the deflection of a 1D bar. Unlike traditional methods, we don't rely on input-output data but instead leverage the underlying physics represented by differential equations.
 
 ### [Inverse Problem using Physics-Informed-Neural-Network](https://github.com/sob-ANN/Projects/blob/main/Physics%20Informed%20Neural%20Networks/PINN_bar_inverse_main.ipynb)
 
@@ -158,11 +155,11 @@ Explore the solution of a 2-D Elastic Deformation problem using Physics-Informed
 
 ## Math-Related Projects
 
-Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/main/Math-y%20Projects) using concepts from Linear Algebra, Image Processing, Partial Differential Equations and Fluid Mechanics.
+Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/main/Math-y%20Projects) using concepts from Linear Algebra, Image Processing, Partial Differential Equations, and Fluid Mechanics.
 
 ### [Advection Diffusion](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
 
-Explore the solution of the Advection Diffusion Partial Differential Equation (PDE) on real-world wind data
+Explore the solution of the Advection Diffusion Partial Differential Equation (PDE) on real-world wind data.
 
 ### [Image Convolution using Matrices](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Image%20Convolution%20using%20Matrices.ipynb)
 
@@ -181,4 +178,3 @@ Explore the dynamics of projectile motion in this project, leveraging Scipy's 'o
 ## Contact
 
 If you have any questions or would like to get in touch, feel free to reach out to me at [sobanlone88@gmail.com](mailto:sobanlone88@gmail.com).
-
