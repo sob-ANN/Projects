@@ -22,37 +22,31 @@ Explore my projects related to Bayesian Inference, where I leverage probabilisti
 
 - Description: A simple coin tossing example modeled using Bayesian Statistics with Pymc3. Explore the No U-Turn Sampling (NUTS) technique for posterior approximation and visualize the Binomial distribution with different parameters.
 
-### Approximate Integration
+### [Approximate Integration](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Numerical%20Integration%20(MC,%20Gauss%20Quadrature).ipynb)
 
-- [Project Link](./Bayesian%20Inference/Approximate%20Integration.ipynb)
+
 - Description: Discover how I perform integration using Monte-Carlo Estimation and compare results with true values. Additionally, compare Gaussian Quadrature Methods for calculating Entropy of a PDF with Monte Carlo Estimates.
 
-### Integration involving PDFs
-
-- [Project Link](./Bayesian%20Inference/Integration%20involving%20PDFs.ipynb)
+### [Integration involving PDFs](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Integration%20of%20PDFs%20Gauss%20Quadrature.ipynb)
 - Description: Learn about integration (expectation) of the product of Probability Distribution Functions using Gaussian Quadrature, and how it can be used to recover mean and variance.
 
-### Bayesian Neural Network in TensorFlow
+### [Bayesian Neural Network in TensorFlow](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Bayesian%20Neural%20Network%20Tensorflow.ipynb)
 
-- [Project Link](./Bayesian%20Inference/Bayesian%20Neural%20Network%20in%20TensorFlow.ipynb)
+
 - Description: Dive into the implementation of Bayesian Neural Networks using TensorFlow API, modeling both Epistemic and Alleatoric Uncertainty. Explore inference with Bayes by Backprop using TensorFlow Probability Layers.
 
-### Parameter Estimation using MCMC
+### [Parameter Estimation using MCMC](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Parameter%20Est%20MCMC%20SDOF.ipynb)
 
-- [Project Link](./Bayesian%20Inference/Parameter%20Estimation%20using%20MCMC.ipynb)
 - Description: Explore parameter estimation for a single-degree-of-freedom Structural Dynamical System using Markov Chain Monte Carlo (MCMC) and State-Space modeling.
 
-### Kalman Filter State Estimation
+### [Kalman Filter State Estimation](https://github.com/sob-ANN/Projects/blob/main/Bayesian/State%20Est%20SDOF%20KF.ipynb)
 
-- [Project Link](./Bayesian%20Inference/Kalman%20Filter%20State%20Estimation.ipynb)
 - Description: Learn about state estimation of a single-degree-of-freedom Structural Dynamical System using Kalman Filter and state-space formulation.
 
-### Probabilistic Kalman Filter
-
-- [Project Link](./Bayesian%20Inference/Probabilistic%20Kalman%20Filter.ipynb)
+### [Probabilistic Kalman Filter](https://github.com/sob-ANN/Projects/blob/main/Bayesian/Probabilistic%20Kalman%20Filter.ipynb)
 - Description: Discover the probabilistic form of Kalman Filter and its applications in simplifying complex integrations for non-Gaussian assumptions.
 
-For questions or collaboration opportunities, you can reach out to me at [your.email@example.com](mailto:your.email@example.com).
+
 
 ---
 
