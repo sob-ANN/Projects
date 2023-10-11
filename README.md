@@ -140,7 +140,7 @@ Exploring more [Math-related projects](https://github.com/sob-ANN/Projects/tree/
 - [Partial Differential Equation](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Partial%20Differential%20Equation%20Solution%2C%20Visualization.ipynb)
   - Solve a Partial Differential Equation (PDE) with Dirichlet Boundary Conditions and visualize the results. This project offers a visual representation of the solution space, making it easier to comprehend and interpret the outcomes.
 
-- [Projectile Motion Using odeint](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/Projectile%20Motion%20using%20odeint.ipynb)
+- [Projectile Motion Using odeint](https://github.com/sob-ANN/Projects/blob/main/Math-y%20Projects/%20Projectile%20Motion%20using%20odeint.ipynb)
   - Explore the dynamics of projectile motion in this project, leveraging Scipy's 'odeint' library to solve differential equations. Witness the motion of a football launched from the ground while accounting for drag forces. Realistic parameter values are employed to simulate the motion accurately.
 
 ---
