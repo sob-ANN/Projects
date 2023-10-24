@@ -3,7 +3,7 @@ Fantasy Premier League (FPL) is played by over 10 Million football fans across t
 Finally, I attempted to find the 'most optimal' team based on the various constraints in the game like budget, max/min player per position and max per team. I would like to continue this project in the future to include in-season changes and maybe predictions. Also, previous year data may be helpful to use. This was my naive attempt to put to practice what I have learnt.
 
 ## [Sentiment Analysis RNN, LSTM](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Sentiment_Analysis_RNN_LSTM.ipynb)
-___WRITE___
+Diving into the world of Natural Languange Processing with hands on project on sentiment analysis on IMdB Movies Dataset. Implemeneted using the Tensorflow/Keras Layers module, here I compare the performance of RNNs and LSTMs. As expected, we see an increase in prediction accuracy in LSTMs as compared to RNNs.
 
 ## [Neural Network Tensorflow](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/Neural%20Network%20Tensorflow.ipynb)
 A basic implementation of Neural Network in Tensorflow on MNIST dataset. Here we were trying to see what representation is learnt by the hidden layers while learning how to apply the TensorFlow API.
@@ -14,4 +14,4 @@ Support Vector Machine, a classification Algorithm was implemented using sklearn
 ## [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
 K-means Clustering is an unsupervised clustering algorithm. This model was implemented using sklearn on MNIST datset. We experimented with the value of k (number of clusters) to see how it affects our predictions.
 
-__KLD And VAE__
+KLD And VAE
