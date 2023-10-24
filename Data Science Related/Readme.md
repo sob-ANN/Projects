@@ -14,4 +14,8 @@ Support Vector Machine, a classification Algorithm was implemented using sklearn
 ## [K-means Clustering](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/K%20means%20Clustering.ipynb)
 K-means Clustering is an unsupervised clustering algorithm. This model was implemented using sklearn on MNIST datset. We experimented with the value of k (number of clusters) to see how it affects our predictions.
 
-KLD And VAE
+## [Variational Auto Encoder]()
+Jumping into Generative AI, here I implement Variational AutoEncoder of Fashion MNIST Data. Building the VAE by minimizing the ELBO (Evidence Lower BOund), I encode the information using deep NNs and later decode it using the same. This simple implementation is used to generate new data points by constructing this Encoder-Decoder Sequence.
+
+## [Kullback-Leiber Divergence Minimisation Visualised](https://github.com/sob-ANN/Projects/blob/main/Data%20Science%20Related/KL_divergence%20Tensorflow.ipynb)
+I look at minimisation of KL Divergence between two distributions and the effect of using Reverse KLD (As used in Expectation Propagation). There's a nice visualisation which shows the 2D Gaussian moving towards the intended distribution in both examples.
